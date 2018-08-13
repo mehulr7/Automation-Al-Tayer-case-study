@@ -9,9 +9,9 @@ Case 2.2
 
 To run the script I have created Run.bat file. Just double click on it. Test will run automatically. All the dependencies are added into the pom.xml file.
 
-Last code was not easy to understand and readable so i have written the scripts from scratch using maven and cucumber(BDD). It is much easier to understand as compared to TDD. In this way the code is easy to manage. Anyone who stakeholders can read the code easily as its methods name shows its flow.
+Last code was not easy to understand and readable so i have written the scripts from scratch using maven and cucumber(BDD). It is much easier to understand as compared to TDD. In this way the code is easy to manage. Anyone stakeholders/users can read the code easily as its methods name shows its flow.
 
-I have given the meaningful variable name. Anyone can understand what type of value contains in the variable.
+I have given meaningful variable names. Anyone can understand what type of value is contained in the variable.
 
 Yes I checked whole the scenario written in one function. But I have created one Action class where most of the actions are stored, Just used these function in frontend. I have separated all function and created 4 classes for each scenario. In Common class I have written reusable code and used it.
 
